@@ -92,7 +92,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 <s>[What is Data Science](https://www.coursera.org/learn/what-is-datascience)</s>
 
-### Introduction to Computer Science
+<s>### Introduction to Computer Science</s>
 
 _Students who already know basic programming in any language can skip this first course_
 
